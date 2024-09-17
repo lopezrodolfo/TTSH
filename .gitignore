@@ -1,0 +1,10 @@
+# Compilation files
+*.o
+ttsh
+siesta
+
+# VSCode workspace settings
+.vscode/
+
+# macOS system files
+.DS_Store
